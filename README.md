@@ -3,6 +3,7 @@
 A simple and interactive dice game built using React (Vite) where users can select a number and roll the dice to earn points.
 
 🚀 Features
+
 🎯 Select a number between 1–6
 🎲 Click the dice to roll
 📈 Score increases if your guess is correct
@@ -55,9 +56,7 @@ Add sound effects 🎧
 Add animations for dice roll 🎲
 Store high score using localStorage 💾
 Multiplayer mode 👥
-🙌 Author
 
-Your Name
 
 ⭐ Give a Star
 
