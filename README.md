@@ -21,12 +21,14 @@ A simple and interactive dice game built using React (Vite) where users can sele
 <img width="1920" height="1032" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/2a48818e-e60e-48d4-aba7-6c3b27557a08" />
 
 🎮 How to Play
+
 Select any number (1–6)
 Click on the dice to roll
 If your selected number matches the dice:
 You gain points equal to the dice number
 If wrong:
 2 points will be deducted
+
 ⚙️ Installation & Setup
 
 Clone the repo:
@@ -52,6 +54,7 @@ src/
  ├── main.jsx
  
 💡 Future Improvements
+
 Add sound effects 🎧
 Add animations for dice roll 🎲
 Store high score using localStorage 💾
